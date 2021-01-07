@@ -1,2 +1,3 @@
 # hello-world
 Just another repository
+GitHub is interesting stuff and the journey is going to be FUN...
