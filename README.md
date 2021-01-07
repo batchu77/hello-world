@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
-GitHub is interesting stuff and the journey is going to be FUN...
+
+This is my second change to Readme and I am going to check my work
